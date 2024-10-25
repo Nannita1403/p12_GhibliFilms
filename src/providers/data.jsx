@@ -6,6 +6,7 @@ export const movies =[
         "original_title": "千と千尋の神隠し",
         "original_title_romanised": "Sen to Chihiro no kamikakushi",
         "image": "https://i.pinimg.com/736x/4b/b9/01/4bb9017bb6ac75815ef128bc3f8345a1.jpg",
+        "gif":"https://tenor.com/es-419/view/spirited-away-gif-9436417",
         "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
         "movie_banner": "https://image.tmdb.org/t/p/original/bSXfU4dwZyBA1vMmXvejdRXBvuF.jpg",
         "description": "Spirited Away is an Oscar winning Japanese animated film about a ten year old girl who wanders away from her parents along a path that leads to a world ruled by strange and unusual monster-like animals. Her parents have been changed into pigs along with others inside a bathhouse full of these creatures. Will she ever see the world how it once was?",

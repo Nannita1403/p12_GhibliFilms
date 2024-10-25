@@ -1,15 +1,15 @@
 import Nav from "../Nav/Nav";
 
-const Header = () => {
+const Hero = () => {
   return (
     <>
     <Nav/>
     
     <div className='header'>
-        <h1>Header Component</h1>
+        <h1>Hero</h1>
     </div>
     </>
   );
 };
 
-export default Header;
+export default Hero;

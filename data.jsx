@@ -403,7 +403,7 @@ export const movies =[
         "title": "From Up on Poppy Hill",
         "original_title": "コクリコ坂から",
         "original_title_romanised": "Kokuriko zaka kara",
-        "image":"https://i.pinimg.com/564x/c7/6a/27/c76a278a4d44d9e8a30cab1199bb62ea.jpg",
+        "image":"https://i.pinimg.com/736x/9c/d3/b6/9cd3b67b55aede22c7716d5e928852f1.jpg",
         "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRLYX4RZIyloHSJwvZKAhphAjiB.jpg",
         "movie_banner": "https://image.tmdb.org/t/p/original/xtPBZYaWQMQxRpy7mkdk5n1bTxs.jpg",
         "description": "The story is set in 1963 in Yokohama. Kokuriko Manor sits on a hill overlooking the harbour. A 16 year-old girl, Umi, lives in that house. Every morning she raises a signal flag facing the sea. The flag means “I pray for safe voyages”. A 17 year-old boy, Shun, always sees this flag from the sea as he rides a tugboat to school. Gradually the pair are drawn to each other but they are faced with a sudden trial. Even so, they keep going without running from facing the hardships of reality.",
@@ -427,121 +427,42 @@ export const movies =[
         "url": "https://ghibliapi.vercel.app/films/45db04e4-304a-4933-9823-33f389e8d74d"
     },
     {
-      "id": "4e236f34-b981-41c3-8c65-f8c9000b94e7",
-      "title": "Only Yesterday",
-      "original_title": "おもひでぽろぽろ",
-      "original_title_romanised": "Omoide poro poro",
-      "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJU6rwzLX7Jk8HFQfVW6H5guMC.jpg",
-      "movie_banner": "https://image.tmdb.org/t/p/w533_and_h300_bestv2/isCrlWWI4JrdLKAUAwFb5cjAsH4.jpg",
-      "description": "It’s 1982, and Taeko is 27 years old, unmarried, and has lived her whole life in Tokyo. She decides to visit her family in the countryside, and as the train travels through the night, memories flood back of her younger years: the first immature stirrings of romance, the onset of puberty, and the frustrations of math and boys. At the station she is met by young farmer Toshio, and the encounters with him begin to reconnect her to forgotten longings. In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
-      "director": "Isao Takahata",
-      "producer": "Toshio Suzuki",
-      "release_date": "1991",
-      "running_time": "118",
-      "rt_score": "100",
-      "people": [
-        "https://ghibliapi.vercel.app/people/"
-      ],
-      "species": [
-        "https://ghibliapi.vercel.app/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-      ],
-      "locations": [
-        "https://ghibliapi.vercel.app/locations/"
-      ],
-      "vehicles": [
-        "https://ghibliapi.vercel.app/vehicles/"
-      ],
-      "url": "https://ghibliapi.vercel.app/films/4e236f34-b981-41c3-8c65-f8c9000b94e7"
+        "id": "ff24da26-a969-4f0e-ba1e-a122ead6c6e3",
+        "title": "Whisper of the Heart",
+        "original_title": "耳をすませば",
+        "original_title_romanised": "Mimi wo sumaseba",
+        "image":"https://i.pinimg.com/enabled_lo/564x/f6/5d/f9/f65df904661117908671cb97d0699c3d.jpg",
+        "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E3Hvbu0bg38ouYf6chGftVGqZ7.jpg",
+        "movie_banner": "https://image.tmdb.org/t/p/original/fRtaDgmj0CirvqFUG1XN48BDY1l.jpg",
+        "description": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'. Curious as to who he is, Shizuku meets a boy her age whom she finds infuriating, but discovers to her shock that he is her 'Prince of Books'. As she grows closer to him, she realises that he merely read all those books to bring himself closer to her. The boy Seiji aspires to be a violin maker in Italy, and it is his dreams that make Shizuku realise that she has no clear path for her life. Knowing that her strength lies in writing, she tests her talents by writing a story about Baron, a cat statuette belonging to Seiji's grandfather.",
+        "director": "Yoshifumi Kondō",
+        "producer": "Toshio Suzuki",
+        "release_date": "1995",
+        "running_time": "111",
+        "rt_score": "91",
+        "people": [
+          "https://ghibliapi.vercel.app/people/"
+        ],
+        "species": [
+          "https://ghibliapi.vercel.app/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+        ],
+        "locations": [
+          "https://ghibliapi.vercel.app/locations/"
+        ],
+        "vehicles": [
+          "https://ghibliapi.vercel.app/vehicles/"
+        ],
+        "url": "https://ghibliapi.vercel.app/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
     },
-    {
-      "id": "1b67aa9a-2e4a-45af-ac98-64d6ad15b16c",
-      "title": "Pom Poko",
-      "original_title": "平成狸合戦ぽんぽこ",
-      "original_title_romanised": "Heisei tanuki gassen Ponpoko",
-      "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kowo9E1e1JcWLXj9cCvAOFZcy5n.jpg",
-      "movie_banner": "https://image.tmdb.org/t/p/original/jScPd0u0jeo66l8gwDl7W9hDUnM.jpg",
-      "description": "As the human city development encroaches on the raccoon population's forest and meadow habitat, the raccoons find themselves faced with the very real possibility of extinction. In response, the raccoons engage in a desperate struggle to stop the construction and preserve their home.",
-      "director": "Isao Takahata",
-      "producer": "Toshio Suzuki",
-      "release_date": "1994",
-      "running_time": "119",
-      "rt_score": "78",
-      "people": [
-        "https://ghibliapi.vercel.app/people/"
-      ],
-      "species": [
-        "https://ghibliapi.vercel.app/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-      ],
-      "locations": [
-        "https://ghibliapi.vercel.app/locations/"
-      ],
-      "vehicles": [
-        "https://ghibliapi.vercel.app/vehicles/"
-      ],
-      "url": "https://ghibliapi.vercel.app/films/1b67aa9a-2e4a-45af-ac98-64d6ad15b16c"
-    },
-    {
-      "id": "ff24da26-a969-4f0e-ba1e-a122ead6c6e3",
-      "title": "Whisper of the Heart",
-      "original_title": "耳をすませば",
-      "original_title_romanised": "Mimi wo sumaseba",
-      "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E3Hvbu0bg38ouYf6chGftVGqZ7.jpg",
-      "movie_banner": "https://image.tmdb.org/t/p/original/fRtaDgmj0CirvqFUG1XN48BDY1l.jpg",
-      "description": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'. Curious as to who he is, Shizuku meets a boy her age whom she finds infuriating, but discovers to her shock that he is her 'Prince of Books'. As she grows closer to him, she realises that he merely read all those books to bring himself closer to her. The boy Seiji aspires to be a violin maker in Italy, and it is his dreams that make Shizuku realise that she has no clear path for her life. Knowing that her strength lies in writing, she tests her talents by writing a story about Baron, a cat statuette belonging to Seiji's grandfather.",
-      "director": "Yoshifumi Kondō",
-      "producer": "Toshio Suzuki",
-      "release_date": "1995",
-      "running_time": "111",
-      "rt_score": "91",
-      "people": [
-        "https://ghibliapi.vercel.app/people/"
-      ],
-      "species": [
-        "https://ghibliapi.vercel.app/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-      ],
-      "locations": [
-        "https://ghibliapi.vercel.app/locations/"
-      ],
-      "vehicles": [
-        "https://ghibliapi.vercel.app/vehicles/"
-      ],
-      "url": "https://ghibliapi.vercel.app/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
-    },
-    {
-      "id": "45204234-adfd-45cb-a505-a8e7a676b114",
-      "title": "My Neighbors the Yamadas",
-      "original_title": "ホーホケキョ となりの山田くん",
-      "original_title_romanised": "Hōhokekyo tonari no Yamada-kun",
-      "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTGuHmMIBBgKakY80J1D52VvQKI.jpg",
-      "movie_banner": "https://image.tmdb.org/t/p/original/nDOsicEg4RHDq0t23JKGSb58z6u.jpg",
-      "description": "The Yamadas are a typical middle class Japanese family in urban Tokyo and this film shows us a variety of episodes of their lives. With tales that range from the humourous to the heartbreaking, we see this family cope with life's little conflicts, problems and joys in their own way.",
-      "director": "Isao Takahata",
-      "producer": "Toshio Suzuki",
-      "release_date": "1999",
-      "running_time": "104",
-      "rt_score": "75",
-      "people": [
-        "https://ghibliapi.vercel.app/people/"
-      ],
-      "species": [
-        "https://ghibliapi.vercel.app/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-      ],
-      "locations": [
-        "https://ghibliapi.vercel.app/locations/"
-      ],
-      "vehicles": [
-        "https://ghibliapi.vercel.app/vehicles/"
-      ],
-      "url": "https://ghibliapi.vercel.app/films/45204234-adfd-45cb-a505-a8e7a676b114"
-    },
-    
     {
       "id": "578ae244-7750-4d9f-867b-f3cd3d6fecf4",
       "title": "The Tale of the Princess Kaguya",
       "original_title": "かぐや姫の物語",
       "original_title_romanised": "Kaguya-Hime no Monogatari",
+      "imagen":"https://i.pinimg.com/736x/3b/64/a8/3b64a83021a0af69bf5af853b5b5af5f.jpg",
       "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg",
       "movie_banner": "https://image.tmdb.org/t/p/original/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
+      "trailer":"",
       "description": "A bamboo cutter named Sanuki no Miyatsuko discovers a miniature girl inside a glowing bamboo shoot. Believing her to be a divine presence, he and his wife decide to raise her as their own, calling her 'Princess'.",
       "director": "Isao Takahata",
       "producer": "Yoshiaki Nishimura",
@@ -561,87 +482,6 @@ export const movies =[
         "https://ghibliapi.vercel.app/vehicles/"
       ],
       "url": "https://ghibliapi.vercel.app/films/578ae244-7750-4d9f-867b-f3cd3d6fecf4"
-    },
-    {
-      "id": "5fdfb320-2a02-49a7-94ff-5ca418cae602",
-      "title": "When Marnie Was There",
-      "original_title": "思い出のマーニー",
-      "original_title_romanised": "Omoide no Marnie",
-      "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
-      "movie_banner": "https://image.tmdb.org/t/p/original/axUX7urQDwCGQ9qbgh2Yys7qY9J.jpg",
-      "description": "The film follows Anna Sasaki living with her relatives in the seaside town. Anna comes across a nearby abandoned mansion, where she meets Marnie, a mysterious girl who asks her to promise to keep their secrets from everyone. As the summer progresses, Anna spends more time with Marnie, and eventually Anna learns the truth about her family and foster care.",
-      "director": "Hiromasa Yonebayashi",
-      "producer": "Yoshiaki Nishimura",
-      "release_date": "2014",
-      "running_time": "103",
-      "rt_score": "92",
-      "people": [
-        "https://ghibliapi.vercel.app/people/"
-      ],
-      "species": [
-        "https://ghibliapi.vercel.app/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
-      ],
-      "locations": [
-        "https://ghibliapi.vercel.app/locations/"
-      ],
-      "vehicles": [
-        "https://ghibliapi.vercel.app/vehicles/"
-      ],
-      "url": "https://ghibliapi.vercel.app/films/5fdfb320-2a02-49a7-94ff-5ca418cae602"
-    },
-    {
-      "id": "d868e6ec-c44a-405b-8fa6-f7f0f8cfb500",
-      "title": "The Red Turtle",
-      "original_title": "レッドタートル ある島の物語",
-      "original_title_romanised": "Reddotātoru aru shima no monogatari",
-      "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBU3SLjQ9358Km9YWYasPZyebp.jpg",
-      "movie_banner": "https://image.tmdb.org/t/p/original/kjXdW5H3myRBmTMYgKayjphr2FA.jpg",
-      "description": "A man set adrift by a storm wakes up on a beach. He discovers that he is on a deserted island with plenty of fresh water, fruit and a dense bamboo forest. He builds a raft from bamboo and attempts to sail away, but his raft is destroyed by an unseen monster in the sea, forcing him back to the island. He tries again with another, larger raft, but is again foiled by the creature. A third attempt again ends with the raft destroyed, but this time he is confronted by a giant red turtle, which stares at him, and forces him back to the island.",
-      "director": "Michaël Dudok de Wit",
-      "producer": "Toshio Suzuki, Isao Takahata, Vincent Maraval, Pascal Caucheteux, Grégoire Sorlat",
-      "release_date": "2016",
-      "running_time": "80",
-      "rt_score": "93",
-      "people": [
-        "https://ghibliapi.vercel.app/people/"
-      ],
-      "species": [
-        "https://ghibliapi.vercel.app/species/"
-      ],
-      "locations": [
-        "https://ghibliapi.vercel.app/locations/"
-      ],
-      "vehicles": [
-        "https://ghibliapi.vercel.app/vehicles/"
-      ],
-      "url": "https://ghibliapi.vercel.app/films/d868e6ec-c44a-405b-8fa6-f7f0f8cfb500"
-    },
-    {
-      "id": "790e0028-a31c-4626-a694-86b7a8cada40",
-      "title": "Earwig and the Witch",
-      "original_title": "アーヤと魔女",
-      "original_title_romanised": "Āya to Majo",
-      "banner": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sJhFtY3eHuvvACaPpxpzdCLQqpQ.jpg",
-      "movie_banner": "https://www.themoviedb.org/t/p/original/qMxpGzmmnY1jLd4p7EhhoW43wWF.jpg",
-      "description": "An orphan girl, Earwig, is adopted by a witch and comes home to a spooky house filled with mystery and magic.",
-      "director": "Gorō Miyazaki",
-      "producer": "Toshio Suzuki",
-      "release_date": "2021",
-      "running_time": "82",
-      "rt_score": "30",
-      "people": [
-        "https://ghibliapi.vercel.app/people/"
-      ],
-      "species": [
-        "https://ghibliapi.vercel.app/species/"
-      ],
-      "locations": [
-        "https://ghibliapi.vercel.app/locations/"
-      ],
-      "vehicles": [
-        "https://ghibliapi.vercel.app/vehicles/"
-      ],
-      "url": "https://ghibliapi.vercel.app/films/790e0028-a31c-4626-a694-86b7a8cada40"
     }
   ]
 

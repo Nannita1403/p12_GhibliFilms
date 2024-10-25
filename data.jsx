@@ -427,6 +427,34 @@ export const movies =[
         "url": "https://ghibliapi.vercel.app/films/45db04e4-304a-4933-9823-33f389e8d74d"
     },
     {
+      "id": "4e236f34-b981-41c3-8c65-f8c9000b94e7",
+      "title": "Only Yesterday",
+      "original_title": "おもひでぽろぽろ",
+      "original_title_romanised": "Omoide poro poro",
+      "image":"https://i.pinimg.com/564x/6c/50/df/6c50dfa28a09836388b018b8835f7349.jpg",
+      "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJU6rwzLX7Jk8HFQfVW6H5guMC.jpg",
+      "movie_banner": "https://image.tmdb.org/t/p/w533_and_h300_bestv2/isCrlWWI4JrdLKAUAwFb5cjAsH4.jpg",
+      "description": "It’s 1982, and Taeko is 27 years old, unmarried, and has lived her whole life in Tokyo. She decides to visit her family in the countryside, and as the train travels through the night, memories flood back of her younger years: the first immature stirrings of romance, the onset of puberty, and the frustrations of math and boys. At the station she is met by young farmer Toshio, and the encounters with him begin to reconnect her to forgotten longings. In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
+      "director": "Isao Takahata",
+      "producer": "Toshio Suzuki",
+      "release_date": "1991",
+      "running_time": "118",
+      "rt_score": "100",
+      "people": [
+        "https://ghibliapi.vercel.app/people/"
+      ],
+      "species": [
+        "https://ghibliapi.vercel.app/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+      ],
+      "locations": [
+        "https://ghibliapi.vercel.app/locations/"
+      ],
+      "vehicles": [
+        "https://ghibliapi.vercel.app/vehicles/"
+      ],
+      "url": "https://ghibliapi.vercel.app/films/4e236f34-b981-41c3-8c65-f8c9000b94e7"
+    },
+    {
         "id": "ff24da26-a969-4f0e-ba1e-a122ead6c6e3",
         "title": "Whisper of the Heart",
         "original_title": "耳をすませば",
@@ -482,6 +510,34 @@ export const movies =[
         "https://ghibliapi.vercel.app/vehicles/"
       ],
       "url": "https://ghibliapi.vercel.app/films/578ae244-7750-4d9f-867b-f3cd3d6fecf4"
+    },
+    {
+      "id": "1b67aa9a-2e4a-45af-ac98-64d6ad15b16c",
+      "title": "Pom Poko",
+      "original_title": "平成狸合戦ぽんぽこ",
+      "original_title_romanised": "Heisei tanuki gassen Ponpoko",
+      "image":"https://i.pinimg.com/736x/d9/03/d7/d903d73e28cc964d36e4ec93ed7f576e.jpg",
+      "banner": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kowo9E1e1JcWLXj9cCvAOFZcy5n.jpg",
+      "movie_banner": "https://image.tmdb.org/t/p/original/jScPd0u0jeo66l8gwDl7W9hDUnM.jpg",
+      "description": "As the human city development encroaches on the raccoon population's forest and meadow habitat, the raccoons find themselves faced with the very real possibility of extinction. In response, the raccoons engage in a desperate struggle to stop the construction and preserve their home.",
+      "director": "Isao Takahata",
+      "producer": "Toshio Suzuki",
+      "release_date": "1994",
+      "running_time": "119",
+      "rt_score": "78",
+      "people": [
+        "https://ghibliapi.vercel.app/people/"
+      ],
+      "species": [
+        "https://ghibliapi.vercel.app/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2"
+      ],
+      "locations": [
+        "https://ghibliapi.vercel.app/locations/"
+      ],
+      "vehicles": [
+        "https://ghibliapi.vercel.app/vehicles/"
+      ],
+      "url": "https://ghibliapi.vercel.app/films/1b67aa9a-2e4a-45af-ac98-64d6ad15b16c"
     }
   ]
 

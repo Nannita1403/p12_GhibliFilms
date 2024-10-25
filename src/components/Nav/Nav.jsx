@@ -1,6 +1,4 @@
-import ChangeTheme from "../../ChangeTheme/ChangeTheme";
-
-
+import ChangeTheme from "../ChangeTheme/ChangeTheme"
 const Nav = () => {
   return (
     <>

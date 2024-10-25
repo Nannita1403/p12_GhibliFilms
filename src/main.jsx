@@ -7,12 +7,11 @@ import { ChakraProvider } from '@chakra-ui/react';
 import React from 'react';
 
 createRoot(document.getElementById('root')).render( 
-  <ChakraProvider>
-<BrowserRouter>
-<ThemePageProvider>
+<ChakraProvider>
+  <ThemePageProvider>
+    <BrowserRouter>
         <App/>
-    </ThemePageProvider>
-</BrowserRouter>
+    </BrowserRouter>
+  </ThemePageProvider>
 </ChakraProvider>
-
 );
